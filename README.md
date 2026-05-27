@@ -1,103 +1,59 @@
-<div align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="80%"/>
+</p>
 
-![Pixel Art Banner](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5e0c462c/images/marquee.svg)
 
-# Hi there, I'm Harish 👋
+<h1 align="center">Hi there, I'm Harish 👋</h1>
+<h3 align="center"> Aspiring Software Engineer</h3>
 
-### 🚀 Full-Stack Developer & Blockchain Enthusiast
-
-</div>
-
----
-
-## 🕹️ About Me
-
-```
-🔗  Building decentralized apps on Ethereum with MERN + Solidity
-🌱  Exploring Web3, smart contracts, and DeFi ecosystems
-💡  Turning ideas into scalable, secure, and beautiful web apps
-🎯  Passionate about blockchain, clean architecture & open source
-📍  Chennai, India
-```
+## About Me
+<pre align="left">
+💻 Front-End Developer | Crafting interactive & user-friendly web experiences 
+🌱 Exploring modern web technologies & constantly improving my skills
+🚀 Turning ideas into responsive, beautiful, and efficient web apps
+🎯 Passionate about coding challenges, optimization, and clean code
+</pre>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🔗 Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
-
-### 🗄️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### 🧰 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 LeetCode Stats
 
-<div align="center">
+[![LeetCode](https://img.shields.io/badge/LeetCode-jagan2005-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Harish6275/)
 
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-R-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-R-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Harish-R-01&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B35&currStreakLabel=58A6FF)
-
-</div>
 
 ---
 
-## 🏆 Featured Projects
+## 📫 Connect with Me
 
-### 🌾 [Local Harvest Marketplace](https://github.com/Harish-R-01/Local-Harvest-Marketplace-app-Design)
-> Next-generation decentralized agricultural marketplace — UI/UX design prototypes and wireframes for a blockchain-powered platform connecting farmers directly to buyers.
-
-### 🍱 [FoodLink](https://github.com/Harish-R-01/FoodLink)
-> Surplus food distribution platform built with Spring Boot, JWT auth, and MySQL — connecting donors with those in need.
-
-### ✅ [TODO Application](https://github.com/Harish-R-01/TODO-Application)
-> Full-stack task management app built with Python, Django, and SQLite with a clean, responsive UI.
+<p align="center">
+<a href="https://www.linkedin.com/in/harish-r01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://jaganr07.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:harishbabu6275@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Harish-R-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-r-01)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harish-R-01)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Harish-R-01&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-</div>
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
